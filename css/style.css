@@ -42,3 +42,8 @@ textarea {
 .tag.highlight {
   background-color: #273c75;
 }
+@media screen and (max-width: 500px) {
+  .container {
+    width: 300px;
+  }
+}
